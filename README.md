@@ -1,2 +1,1 @@
-# portf-lio
-Portfólio pessoal.
+Com muita satisfação, apresento meu primeiro portfólio desenvolvido inteiramente com HTML e CSS! Apesar de minha paixão pelo back-end, decidi me aventurar no universo do front-end para criar uma vitrine online dos meus estudos.
